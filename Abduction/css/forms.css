@@ -12,6 +12,7 @@ body {
 }
 h1, h3, legend {
 	font-family: 'Slabo 27px', serif;
+	font-size: 2rem;
 }
 .wrapper {
 	width: 80%;
